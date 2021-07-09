@@ -7,4 +7,4 @@
 - Insertion Sort
 - Selection Sort
 
-Check out the Visualization over hear:
+Check out the Visualization over hear: https://mihirsp18.github.io/Sorting-Visualizer/
